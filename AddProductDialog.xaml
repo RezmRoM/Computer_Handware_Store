@@ -1,0 +1,106 @@
+﻿<Window x:Class="Computer_Hardware_Strore.AddProductDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавление товара" 
+        Height="700" 
+        Width="500"
+        WindowStartupLocation="CenterOwner"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent">
+
+    <Border Background="{StaticResource SurfaceBrush}" 
+            CornerRadius="15" 
+            Margin="10">
+        <Border.Effect>
+            <DropShadowEffect BlurRadius="10" 
+                            ShadowDepth="0"
+                            Color="#2563EB"/>
+        </Border.Effect>
+
+        <Grid Margin="30">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Добавление нового товара"
+                     FontSize="24"
+                     FontWeight="SemiBold"
+                     Foreground="{StaticResource TextBrush}"
+                     HorizontalAlignment="Center"
+                     Margin="0,0,0,20"/>
+
+            <StackPanel Grid.Row="1" Margin="0,10">
+                <TextBlock Text="Название товара:"
+                         Foreground="{StaticResource TextBrush}"
+                         Margin="0,0,0,5"/>
+                <TextBox x:Name="ProductNameTextBox"
+                        Style="{StaticResource ModernTextBox}"
+                        Height="40"
+                        Margin="0,0,0,15"/>
+
+                <TextBlock Text="Описание:"
+                         Foreground="{StaticResource TextBrush}"
+                         Margin="0,0,0,5"/>
+                <TextBox x:Name="DescriptionTextBox"
+                        Style="{StaticResource ModernTextBox}"
+                        Height="80"
+                        TextWrapping="Wrap"
+                        AcceptsReturn="True"
+                        VerticalScrollBarVisibility="Auto"
+                        Margin="0,0,0,15"/>
+
+                <TextBlock Text="URL изображения:"
+                         Foreground="{StaticResource TextBrush}"
+                         Margin="0,0,0,5"/>
+                <TextBox x:Name="ImageUrlTextBox"
+                        Style="{StaticResource ModernTextBox}"
+                        Height="40"
+                        Margin="0,0,0,15"/>
+
+                <TextBlock Text="Цена:"
+                         Foreground="{StaticResource TextBrush}"
+                         Margin="0,0,0,5"/>
+                <TextBox x:Name="PriceTextBox"
+                        Style="{StaticResource ModernTextBox}"
+                        Height="40"
+                        Margin="0,0,0,15"/>
+
+                <TextBlock Text="Количество:"
+                         Foreground="{StaticResource TextBrush}"
+                         Margin="0,0,0,5"/>
+                <TextBox x:Name="QuantityTextBox"
+                        Style="{StaticResource ModernTextBox}"
+                        Height="40"
+                        Margin="0,0,0,15"/>
+
+                <TextBlock Text="Категория:"
+                         Foreground="{StaticResource TextBrush}"
+                         Margin="0,0,0,5"/>
+                <ComboBox x:Name="CategoryComboBox"
+                        Style="{StaticResource ModernComboBox}"
+                        Height="40"
+                        Margin="0,0,0,15"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" 
+                      Orientation="Horizontal" 
+                      HorizontalAlignment="Center"
+                      Margin="0,20,0,0">
+                <Button Content="Добавить"
+                        Style="{StaticResource ModernButton}"
+                        Width="120"
+                        Height="40"
+                        Margin="0,0,10,0"
+                        Click="AddButton_Click"/>
+                <Button Content="Отмена"
+                        Style="{StaticResource ModernButton}"
+                        Width="120"
+                        Height="40"
+                        Click="CancelButton_Click"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window> 

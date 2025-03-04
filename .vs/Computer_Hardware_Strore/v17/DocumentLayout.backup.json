@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|c:\\users\\roma_w\\desktop\\save\\computer_handware_store\\buyerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:buyerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\profilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:profilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\profilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:profilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\productcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:productcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\cartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:cartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\cartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:cartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\buyerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:buyerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\administratorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:administratorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\administratorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:administratorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\addcategorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:addcategorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\addproductdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:addproductdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\addcategorydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:addcategorydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\orderdetailsdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:orderdetailsdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\orderdetailsdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:orderdetailsdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\addproductdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:addproductdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FAC25-8B03-45FE-AD99-52A5741B187A}|Computer_Hardware_Strore.csproj|solutionrelative:registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ROMA_W\\source\\repos\\Computer_Hardware_Strore\\ValueConverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ROMA_W\\source\\repos\\Computer_Hardware_Strore\\Converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\Converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuyerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\BuyerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BuyerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\BuyerWindow.xaml.cs",
+              "RelativeToolTip": "BuyerWindow.xaml.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAIwGUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:27:47.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\CartWindow.xaml",
+              "RelativeDocumentMoniker": "CartWindow.xaml",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\CartWindow.xaml",
+              "RelativeToolTip": "CartWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T15:05:00.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\ProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProfileWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\ProfileWindow.xaml.cs",
+              "RelativeToolTip": "ProfileWindow.xaml.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAkwLsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:04:19.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\ProfileWindow.xaml",
+              "RelativeDocumentMoniker": "ProfileWindow.xaml",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\ProfileWindow.xaml",
+              "RelativeToolTip": "ProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T15:03:21.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuyerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\BuyerWindow.xaml",
+              "RelativeDocumentMoniker": "BuyerWindow.xaml",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\BuyerWindow.xaml",
+              "RelativeToolTip": "BuyerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T11:22:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\CartWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CartWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\CartWindow.xaml.cs",
+              "RelativeToolTip": "CartWindow.xaml.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAIwEIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:05:36.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCard.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\ProductCard.cs",
+              "RelativeDocumentMoniker": "ProductCard.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\ProductCard.cs",
+              "RelativeToolTip": "ProductCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:31:50.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-04T11:26:24.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ValueConverters.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\source\\repos\\Computer_Hardware_Strore\\ValueConverters.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Computer_Hardware_Strore\\ValueConverters.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\source\\repos\\Computer_Hardware_Strore\\ValueConverters.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Computer_Hardware_Strore\\ValueConverters.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:14:16.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\source\\repos\\Computer_Hardware_Strore\\Converters.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Computer_Hardware_Strore\\Converters.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\source\\repos\\Computer_Hardware_Strore\\Converters.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Computer_Hardware_Strore\\Converters.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:08:05.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\Converters.cs",
+              "RelativeDocumentMoniker": "Converters.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\Converters.cs",
+              "RelativeToolTip": "Converters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:50:16.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\Styles.xaml",
+              "RelativeDocumentMoniker": "Styles.xaml",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\Styles.xaml",
+              "RelativeToolTip": "Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T15:45:12.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T11:26:29.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdministratorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AdministratorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AdministratorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AdministratorWindow.xaml.cs",
+              "RelativeToolTip": "AdministratorWindow.xaml.cs",
+              "ViewState": "AgIAAJADAAAAAAAAAAAIwKMDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:28:12.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdministratorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AdministratorWindow.xaml",
+              "RelativeDocumentMoniker": "AdministratorWindow.xaml",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AdministratorWindow.xaml",
+              "RelativeToolTip": "AdministratorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T11:21:24.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddCategoryDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AddCategoryDialog.xaml",
+              "RelativeDocumentMoniker": "AddCategoryDialog.xaml",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AddCategoryDialog.xaml",
+              "RelativeToolTip": "AddCategoryDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T14:11:20.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddProductDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AddProductDialog.xaml",
+              "RelativeDocumentMoniker": "AddProductDialog.xaml",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AddProductDialog.xaml",
+              "RelativeToolTip": "AddProductDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T13:34:18.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddCategoryDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AddCategoryDialog.xaml.cs",
+              "RelativeDocumentMoniker": "AddCategoryDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AddCategoryDialog.xaml.cs",
+              "RelativeToolTip": "AddCategoryDialog.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:11:31.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetailsDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\OrderDetailsDialog.xaml.cs",
+              "RelativeDocumentMoniker": "OrderDetailsDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\OrderDetailsDialog.xaml.cs",
+              "RelativeToolTip": "OrderDetailsDialog.xaml.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAUwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:10:27.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetailsDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\OrderDetailsDialog.xaml",
+              "RelativeDocumentMoniker": "OrderDetailsDialog.xaml",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\OrderDetailsDialog.xaml",
+              "RelativeToolTip": "OrderDetailsDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T14:09:58.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddProductDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AddProductDialog.xaml.cs",
+              "RelativeDocumentMoniker": "AddProductDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AddProductDialog.xaml.cs",
+              "RelativeToolTip": "AddProductDialog.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:06:38.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthorizationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AuthorizationWindow.xaml",
+              "RelativeDocumentMoniker": "AuthorizationWindow.xaml",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AuthorizationWindow.xaml",
+              "RelativeToolTip": "AuthorizationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T11:20:03.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthorizationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AuthorizationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthorizationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\AuthorizationWindow.xaml.cs",
+              "RelativeToolTip": "AuthorizationWindow.xaml.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAkwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:26:59.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistrationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\RegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "RegistrationWindow.xaml",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\RegistrationWindow.xaml",
+              "RelativeToolTip": "RegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T11:21:01.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RegistrationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ROMA_W\\Desktop\\save\\Computer_Handware_Store\\RegistrationWindow.xaml.cs",
+              "RelativeToolTip": "RegistrationWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:27:40.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
